@@ -10,7 +10,7 @@
 // use this to document the namespace.
 // -
 
-namespace Microsoft.Hawaii.Ocr.Client
+namespace Microsoft.Hawaii.Ocr.MobileClient
 {
     /// <summary>
     /// The Microsoft.Hawaii.Ocr.Client namespace provides classes that implement the client library 

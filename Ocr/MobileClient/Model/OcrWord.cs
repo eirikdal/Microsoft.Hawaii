@@ -4,7 +4,7 @@
 // </copyright>
 // -
 
-namespace Microsoft.Hawaii.Ocr.Client
+namespace Microsoft.Hawaii.Ocr.MobileClient
 {
     using System;
     using System.Runtime.Serialization;
