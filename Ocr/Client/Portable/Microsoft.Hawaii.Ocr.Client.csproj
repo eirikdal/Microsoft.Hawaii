@@ -68,12 +68,6 @@
     <Compile Include="NameSpaceDoc.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\Common\Client\Portable\Microsoft.Hawaii.Client.csproj">
-      <Project>{3927AC8C-4BF9-4695-932F-44B38715FC8B}</Project>
-      <Name>Microsoft.Hawaii.Client</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
